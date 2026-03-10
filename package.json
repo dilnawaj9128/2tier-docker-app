@@ -1,0 +1,10 @@
+{
+  "name": "docker-2tier-app",
+  "version": "1.0.0",
+  "description": "Simple 2 tier docker application",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0"
+  }
+}
